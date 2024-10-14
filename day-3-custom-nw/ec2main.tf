@@ -6,7 +6,7 @@ resource "aws_instance" "dev" {
     subnet_id = aws_subnet.dev.id
     key_name = var.key_name
     tags = {
-      Name = "dev-ec2"
+      Name = "dev-ec2-1"
     }
 }
 
