@@ -1,4 +1,4 @@
- ami = "ami-0fff1b9a61dec8a5f"
+ ami = "ami-01816d07b1128cd2d"
  instance_type ="t2.micro"
  key_name = "dev"
  
